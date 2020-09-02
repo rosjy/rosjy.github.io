@@ -167,13 +167,8 @@ transition: 0.5s;
     font-size: 18px;
     
 }
-.follow_logo{
-    display: flex;
-    justify-content: space-around;
-    
-}
 .follow_logo li a i{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
@@ -181,7 +176,7 @@ transition: 0.5s;
 
 /* Слайдер */
 .slider .slick-slider{
-
+position: relative;
 }
 /* Слайдер запущен */
 .slick-slider.slick-initialized{}
